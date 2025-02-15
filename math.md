@@ -11,7 +11,7 @@ Output radian: 0.261904
 Height: 5
 Base, first value: 5
 Base, second value: 6
-Expected Output: 27.5
+Expected Output: 27.5 
 ```
 
 3. Write a Python program to calculate the area of regular polygon.

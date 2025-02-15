@@ -7,3 +7,4 @@
 3. Write a Python program to drop microseconds from datetime.
 
 4. Write a Python program to calculate two date difference in seconds.
+ 
