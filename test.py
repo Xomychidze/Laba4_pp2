@@ -6,4 +6,8 @@ def myfunc1():
   myfunc2()
   return x
 
+<<<<<<< HEAD
 print(myfunc1())  
+=======
+print(myfunc1()) 
+>>>>>>> 933d7a6 (8 commit)
